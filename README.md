@@ -2,10 +2,8 @@
 
 ## 📫 Связь со мной
 
-Если у вас есть интересные проекты или предложения работы, не стесняйтесь связаться со мной:
-
-- Email: [mark.krylov93@gmail.com](mailto:mark.krylov93@gmail.com)
-- Telegram: [@MarkKryl](https://t.me/MarkKryl)
+- Email: [markkryl1@gmail.com](mailto:markkryl1@gmail.com)
+- Telegram: [@mkkry93](https://t.me/mkkry93)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
